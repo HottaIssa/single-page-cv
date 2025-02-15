@@ -1,0 +1,25 @@
+*{
+  font-family: "Varela Round", serif;;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin: 5%;
+}
+
+.section {
+  color: rgb(10,250,10)
+}
+
+.name-place {
+  font-weight: 600;
+  color: rgb(20,180,255)
+}
+
+ul {
+  padding: 0 1.5vw;
+}
